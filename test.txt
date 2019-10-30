@@ -1,1 +1,4 @@
+You have updated the content of your remote repository, now try to update your TortoiseGit clone
 Creating with Tortoise…
+Make additional changes to test.txt and commit them.
+*Note that if you make changes too simple TortoiseGit may automatically merge them.
